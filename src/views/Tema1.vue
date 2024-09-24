@@ -383,7 +383,7 @@
                 .col-auto
                   TarjetaAudio.color-primario(
                     texto="La aventura de la flor del Inírida en la COP16"
-                    :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                    :audio="require('@/assets/curso/tema1/audio1.mp3')"
                     @audio-hover="mostrarIndicadorTarjetaAudio = false"
                   )
                     .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

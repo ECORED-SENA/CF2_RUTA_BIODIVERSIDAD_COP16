@@ -110,7 +110,7 @@
                   figure
                     img(src="@/assets/curso/tema2/img3.png", alt="alt")
                 .crd_hover_txt1--body
-                  h4.text-center.mb-3 Purificación del aire y agua
+                  h4.text-center.mb-5 Purificación del aire y agua
                   p.text-center.mb-0 Los ecosistemas limpian el aire y el agua que usamos.
             .col-10.col-md-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
               .crd_hover_txt1
@@ -118,7 +118,7 @@
                   figure
                     img(src="@/assets/curso/tema2/img4.png", alt="alt")
                 .crd_hover_txt1--body
-                  h4.text-center.mb-3 Control de plagas y enfermedades
+                  h4.text-center.mb-5 Control de plagas y enfermedades
                   p.text-center.mb-0 Ayudan a mantener bajo control plagas y enfermedades que nos afectan.
             .col-10.col-md-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
               .crd_hover_txt1
@@ -126,7 +126,7 @@
                   figure
                     img(src="@/assets/curso/tema2/img5.png", alt="alt")
                 .crd_hover_txt1--body
-                  h4.text-center.mb-3 Polinización de cultivos
+                  h4.text-center.mb-5 Polinización de cultivos
                   p.text-center.mb-0 Animales como las abejas polinizan plantas, lo que es clave para la producción de alirnentos.
             .col-10.col-md-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
               .crd_hover_txt1
@@ -134,7 +134,7 @@
                   figure
                     img(src="@/assets/curso/tema2/img6.png", alt="alt")
                 .crd_hover_txt1--body
-                  h4.text-center.mb-3 Provisión de alimentos y medicinas
+                  h4.text-center.mb-5 Provisión de alimentos y medicinas
                   p.text-center.mb-0 Los ecosistemas nos dan comida, plantas medicinales y materiales.
           p.mb-5(data-aos="fade-right") Los tipos de servicios ecosistémicos son:
           .row.align-items-center
@@ -233,7 +233,7 @@
           p.mb-5(data-aos="fade-right") El mal manejo de residuos tóxicos y peligrosos pone en riesgo la salud humana y los ecosistemas, causando daños irreversibles en especies y hábitats. Se necesita un manejo responsable de estos residuos para minimizar su impacto. Siendo así, a través del siguiente video, podrá conocer  una clara explicación de los residuos peligrosos RESPEL:
           figure.mb-5(data-aos="fade-down")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/dg9kRNXM17E?si=IrO81G4PvxTSOrbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           .row.justify-content-center.mb-5
             .col-7.col-lg-4.pe-lg-0(data-aos="fade-right")
               figure
