@@ -28,7 +28,7 @@
         .p-4.h-100
           .row.align-items-center.h-100
             .col-12
-              p.mb-0 Más del 70% de las especies del mundo se encuentran en tan solo 12 países, incluyendo Colombia, que es el segundo país más biodiverso del mundo.
+              p.mb-0 Más del 70 % de las especies del mundo se encuentran en tan solo 12 países, incluyendo Colombia, que es el segundo país más biodiverso del mundo.
     .row.mb-4(data-aos="fade-right")
       .col-auto.bg-c3
         .px-2
@@ -51,45 +51,48 @@
       .col-lg-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/img12.png', alt='alt', style="width: 500px;").m-auto
-    .row.justify-content-center
-      .col-lg-10(data-aos="fade-up")
-        LineaTiempoE.color-acento-contenido
-          .row(titulo="1994" subtitulo="COP1")
-            .col-md-auto.mb-4.mb-lg-0
-              figure
-                img(src="@/assets/curso/tema2/img13.png",style="width: 170px", alt="").m-auto
-            .col-md.mb-4.mb-lg-0
-              p.mb-0 Celebrada en las Bahamas, marcó el inicio de las reuniones sobre biodiversidad.
-            .col-md-auto
-              figure
-                img(src="@/assets/curso/tema2/img6.svg",style="width: 70px", alt="").m-auto
-          .row(titulo="2010" subtitulo="COP10")
-            .col-md-auto.mb-4.mb-lg-0
-              figure
-                img(src="@/assets/curso/tema2/img14.png",style="width: 170px", alt="").m-auto
-            .col-md.mb-4.mb-lg-0
-              p.mb-0 Japón fue sede de la adopción del #[b Protocolo de Nagoya], un acuerdo clave sobre acceso a recursos genéticos y distribución justa de sus beneficios.
-            .col-md-auto
-              figure
-                img(src="@/assets/curso/tema2/img7.svg",style="width: 70px", alt="").m-auto
-          .row(titulo="2022" subtitulo="COP15")
-            .col-md-auto.mb-4.mb-lg-0
-              figure
-                img(src="@/assets/curso/tema2/img15.png",style="width: 170px", alt="").m-auto
-            .col-md.mb-4.mb-lg-0
-              p.mb-0 Realizada entre China y Canadá, se acordó el #[b Marco Global de Biodiversidad Kunming-Montreal], que define objetivos para la conservación de la biodiversidad hasta 2030.
-            .col-md-auto
-              figure
-                img(src="@/assets/curso/tema2/img8.svg",style="width: 70px", alt="").m-auto
-          .row(titulo="2024" subtitulo="COP16")
-            .col-md-auto.mb-4.mb-lg-0
-              figure
-                img(src="@/assets/curso/tema2/img16.png",style="width: 170px", alt="").m-auto
-            .col-md.mb-4.mb-lg-0
-              p.mb-0 En Colombia, será la primera COP tras la adopción del nuevo marco global, marcando un hito en la implementación de medidas acordadas para proteger la biodiversidad.
-            .col-md-auto
-              figure
-                img(src="@/assets/curso/tema2/img9.svg",style="width: 70px", alt="").m-auto
+    .row.bg-c27
+      .col-12
+        .px-5
+          .row.justify-content-center
+            .col-lg-10(data-aos="fade-up")
+              LineaTiempoE.color-acento-contenido
+                .row(titulo="1994" subtitulo="COP1")
+                  .col-md-auto.mb-4.mb-lg-0
+                    figure
+                      img(src="@/assets/curso/tema2/img13.png",style="width: 170px", alt="").m-auto
+                  .col-md.mb-4.mb-lg-0
+                    p.mb-0 Celebrada en las Bahamas, marcó el inicio de las reuniones sobre biodiversidad.
+                  .col-md-auto
+                    figure
+                      img(src="@/assets/curso/tema2/img6.svg",style="width: 70px", alt="").m-auto
+                .row(titulo="2010" subtitulo="COP10")
+                  .col-md-auto.mb-4.mb-lg-0
+                    figure
+                      img(src="@/assets/curso/tema2/img14.png",style="width: 170px", alt="").m-auto
+                  .col-md.mb-4.mb-lg-0
+                    p.mb-0 Japón fue sede de la adopción del #[b Protocolo de Nagoya], un acuerdo clave sobre acceso a recursos genéticos y distribución justa de sus beneficios.
+                  .col-md-auto
+                    figure
+                      img(src="@/assets/curso/tema2/img7.svg",style="width: 70px", alt="").m-auto
+                .row(titulo="2022" subtitulo="COP15")
+                  .col-md-auto.mb-4.mb-lg-0
+                    figure
+                      img(src="@/assets/curso/tema2/img15.png",style="width: 170px", alt="").m-auto
+                  .col-md.mb-4.mb-lg-0
+                    p.mb-0 Realizada entre China y Canadá, se acordó el #[b Marco Global de Biodiversidad Kunming-Montreal], que define objetivos para la conservación de la biodiversidad hasta 2030.
+                  .col-md-auto
+                    figure
+                      img(src="@/assets/curso/tema2/img8.svg",style="width: 70px", alt="").m-auto
+                .row(titulo="2024" subtitulo="COP16")
+                  .col-md-auto.mb-4.mb-lg-0
+                    figure
+                      img(src="@/assets/curso/tema2/img16.png",style="width: 170px", alt="").m-auto
+                  .col-md.mb-4.mb-lg-0
+                    p.mb-0 En Colombia, será la primera COP tras la adopción del nuevo marco global, marcando un hito en la implementación de medidas acordadas para proteger la biodiversidad.
+                  .col-md-auto
+                    figure
+                      img(src="@/assets/curso/tema2/img9.svg",style="width: 70px", alt="").m-auto
     .row.bg-c17
       .col-12
         .p-5
@@ -102,7 +105,7 @@
                 .row.align-items-center.h-100
                   .col-12
                     p.mb-0 Las decisiones tomadas en la COP afectan políticas globales que protegen áreas naturales críticas y especies en peligro de extinción.
-          p.mb-5(data-aos="fade-right") La biodiversidad es vital porque los ecosistemas nos proporcionan muchos beneficios, llamados servicios ecosistémicos, que son fundamentales para la vida humana y el planeta. Estos son:
+          p.mb-5(data-aos="fade-right") La #[b biodiversidad] es vital porque los ecosistemas nos proporcionan muchos beneficios, llamados #[b servicios ecosistémicos], que son fundamentales para la vida humana y el planeta. Estos son:
           .row.justify-content-center.mb-5
             .col-10.col-md-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
               .crd_hover_txt1
@@ -242,7 +245,7 @@
               .p-4.h-100
                 .row.align-items-center.h-100
                   .col-12
-                    p.mb-0 Los ecosistemas bien conservados pueden absorber hasta el 54% de las emisiones de gases de efecto invernadero provocadas por los humanos.
+                    p.mb-0 Los ecosistemas bien conservados pueden absorber hasta el 54 % de las emisiones de gases de efecto invernadero provocadas por los humanos.
           p.mb-5(data-aos="fade-right") Las principales amenazas a la biodiversidad:
           .row
             .col-lg-9.mb-4.mb-lg-0(data-aos="fade-right")

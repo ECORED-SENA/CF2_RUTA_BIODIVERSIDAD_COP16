@@ -112,6 +112,7 @@
           .row.align-items-center.h-100
             .col-12
               p.mb-0 Muchos jóvenes activistas han demostrado que su impacto puede ser significativo cuando se suman a esfuerzos globales. Ejemplos como el de #[b Greta Thunberg] subrayan el poder que los jóvenes tienen al influir en las políticas ambientales y crear conciencia a nivel internacional.
+    p.mb-5(data-aos="fade-right") Como puede involucrarse:
     .row.justify-content-center.mb-5
       .col-10.col-md-6.col-xl-4.mb-4.mb-xl-0(data-aos="fade-right")
         .crd_hover_txt1
@@ -178,7 +179,7 @@
         .p-4.h-100
           .row.align-items-center.h-100
             .col-12
-              p.mb-0 Colombia es el segundo país más biodiverso del mundo, alberga alrededor del 10% de las especies conocidas, a pesar de ocupar menos del 1% de la superficie terrestre.
+              p.mb-0 Colombia es el segundo país más biodiverso del mundo, alberga alrededor del 10 % de las especies conocidas, a pesar de ocupar menos del 1 % de la superficie terrestre.
     .row.mb-5
       .col-lg-4.pe-lg-0.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -197,7 +198,7 @@
         .p-4.h-100
           .row.align-items-center.h-100
             .col-12
-              p.mb-0  Los ecosistemas saludables pueden absorber hasta el 54% de las emisiones de gases de efecto invernadero provocadas por el ser humano.
+              p.mb-0  Los ecosistemas saludables pueden absorber hasta el 54 % de las emisiones de gases de efecto invernadero provocadas por el ser humano.
     .row.align-items-center.mb-4
       .col-lg-8(data-aos="fade-right")
         p La educación ambiental también juega un rol crucial en la participación comunitaria y política. Un público informado está mejor preparado para exigir políticas ambientales más fuertes y participar activamente en su implementación. De esta manera, las metas de la COP16, como la restauración del 30 % de los ecosistemas y la protección de áreas terrestres y marinas, se conectan directamente con las acciones individuales y comunitarias.

@@ -125,7 +125,7 @@
                     .col-auto
                       .px-3.py-2.bg-c5
                         p.mb-0 #[b Meta 2]
-                  p.text-center.mb-0 Restaurar el 30% de todos los ecosistemas degradados.
+                  p.text-center.mb-0 Restaurar el 30 % de todos los ecosistemas degradados.
                 .tarjeta.color-acento-botones1.p-3
                   .row.justify-content-center.mb-3
                     .col-12
@@ -134,7 +134,7 @@
                     .col-auto
                       .px-3.py-2.bg-c5
                         p.mb-0 #[b Meta 3]
-                  p.text-center.mb-0 Conservar el 30% de las tierras, aguas continentales y marinas.
+                  p.text-center.mb-0 Conservar el 30 % de las tierras, aguas continentales y marinas.
                 .tarjeta.color-acento-botones1.p-3
                   .row.justify-content-center.mb-3
                     .col-12
@@ -161,7 +161,7 @@
                     .col-auto
                       .px-3.py-2.bg-c5
                         p.mb-0 #[b Meta 6]
-                  p.text-center.mb-0 Reducir la introducción de especies exóticas invasoras en un 50% y minimizar sus impactos.
+                  p.text-center.mb-0 Reducir la introducción de especies exóticas invasoras en un 50 % y minimizar sus impactos.
                 .tarjeta.color-acento-botones1.p-3
                   .row.justify-content-center.mb-3
                     .col-12
@@ -196,7 +196,7 @@
                 figure.mb-3
                   img(src='@/assets/curso/tema1/img8.svg', alt='alt', style="width: 120px;")
                 p #[b Meta 9]
-                p.mb-0 Gestionar de manera sostenible las contribuciones de la naturaleza a las personas. Se mantienen y mejoran los servicios ecosistémicos.
+                p.mb-0 Gestionar de manera sostenible las contribuciones de la naturaleza a las personas.
           .tarjeta.color-acento-botones.p-4(titulo="Meta 10")
             .row
               .col-12
@@ -477,7 +477,7 @@
                         li.d-flex
                           i.fas.fa-feather-alt(style="color: #128477")
                           |
-                          p.mb-0 Es el primer tratado ambiental de américa latina y el caribe que se centra en los derechos humanos y el medio ambiente.
+                          p.mb-0 Es el primer tratado ambiental de América Latina y el Caribe que se centra en los derechos humanos y el medio ambiente.
                         li.d-flex
                           i.fas.fa-feather-alt(style="color: #128477")
                           |
