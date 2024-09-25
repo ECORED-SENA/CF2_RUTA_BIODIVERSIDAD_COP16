@@ -130,7 +130,7 @@
                     img(src="@/assets/curso/tema2/img5.png", alt="alt")
                 .crd_hover_txt1--body
                   h4.text-center.mb-5 Polinización de cultivos
-                  p.text-center.mb-0 Animales como las abejas polinizan plantas, lo que es clave para la producción de alirnentos.
+                  p.text-center.mb-0 Animales como las abejas polinizan plantas, lo que es clave para la producción de alimentos.
             .col-10.col-md-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-right")
               .crd_hover_txt1
                 .crd_hover_txt1--img
@@ -146,7 +146,7 @@
                 .col-12.bg-c16
                   .px-2.py-1
                     .row.align-items-center
-                      .col-auto
+                      .col-auto.pe-0
                         figure
                           img(src='@/assets/curso/tema2/img2.svg', alt='alt', style="width: 90px;").m-auto
                       .col
@@ -164,7 +164,7 @@
                 .col-12.bg-c16
                   .px-2.py-1
                     .row.align-items-center
-                      .col-auto
+                      .col-auto.pe-0
                         figure
                           img(src='@/assets/curso/tema2/img4.svg', alt='alt', style="width: 90px;").m-auto
                       .col

@@ -378,11 +378,11 @@
                 img(src='@/assets/curso/tema1/img14.svg', alt='alt', style="width: 260px;").m-auto
             .col-lg-9
               p #[b.txt-c1 Pódcast]
-              p.text-white Se invita a escuchar La aventura de la flor del Inírida en la COP16, en este pódcast explora los esfuerzos globales por detener la pérdida de biodiversidad. En este episodio, la Flor del Inírida y Don Campos presentan los objetivos de la COP16, destacando el papel crucial de las comunidades locales e indígenas en la conservación del planeta.
+              p.text-white Se invita a escuchar Objetivos de la COP16, en este pódcast explora los esfuerzos globales por detener la pérdida de biodiversidad. En este episodio, la Flor del Inírida y Don Campos presentan los objetivos de la COP16, destacando el papel crucial de las comunidades locales e indígenas en la conservación del planeta.
               .row
                 .col-auto
                   TarjetaAudio.color-primario(
-                    texto="La aventura de la flor del Inírida en la COP16"
+                    texto="Objetivos de la COP16"
                     :audio="require('@/assets/curso/tema1/audio1.mp3')"
                     @audio-hover="mostrarIndicadorTarjetaAudio = false"
                   )
