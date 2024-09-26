@@ -347,18 +347,7 @@
           .col-12
             .p-3
               p.text-center.mb-0 Garantizar la igualdad de género y un enfoque con perspectiva de género en las acciones en materia de biodiversidad.
-      .tarjeta.color-acento-botones2
-        .row.justify-content-center.mb-3
-          .col-12
-            img(src='@/assets/curso/tema1/img27.png' alt='AvatarTop')
-        .row.justify-content-center
-          .col-auto
-            .px-3.py-2.bg-c5
-              p.mb-0 #[b Meta 24]
-        .row
-          .col-12
-            .p-3
-              p.text-center.mb-0 Las empresas evalúan, divulgan y reducen los riesgos e impactos negativos relacionados con la biodiversidad.
+
     p.mb-5(data-aos="fade-right") El marco también promueve la participación de todos los actores de la sociedad, incluidos pueblos indígenas, comunidades locales, mujeres, jóvenes y sectores privados, en la toma de decisiones y acciones relacionadas con la biodiversidad.
     .row.justify-content-center.mb-5
       .col-7.col-lg-4.pe-lg-0(data-aos="fade-right")
