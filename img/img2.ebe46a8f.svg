@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120.729" height="73.146" viewBox="0 0 120.729 73.146">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectángulo_438999" data-name="Rectángulo 438999" d="M0,0H120.729a0,0,0,0,1,0,0V58.146a15,15,0,0,1-15,15H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1051.928 538.288)"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1185090" data-name="Grupo 1185090" transform="translate(-1079.27 -554.854)">
+    <g id="Grupo_1185089" data-name="Grupo 1185089" transform="translate(27.342 16.566)" clip-path="url(#clip-path)">
+      <g id="Grupo_1185087" data-name="Grupo 1185087" transform="translate(1095.608 545.269)">
+        <path id="Trazado_950088" data-name="Trazado 950088" d="M1105.5,639.931s85.556,3.056,92.311-15.134-21.8-8.008-21.8-8.008,43.969-20.017,35.61-32.367-25.425,2.463-25.425,2.463,29.115-23.7,17.734-36.068-31.268,22-31.268,22,12.706-28.669-4.388-25.758-25.263,51.2-25.263,51.2,4.019-33.412-13.276-25.365C1109.079,582.505,1105.5,639.931,1105.5,639.931Z" transform="translate(-1105.5 -546.851)" fill="#569171"/>
+        <path id="Trazado_950089" data-name="Trazado 950089" d="M1105.5,650.6s44.79-15.371,65.229-45.971" transform="translate(-1105.5 -557.52)" fill="none" stroke="#316007" stroke-miterlimit="10" stroke-width="1.198"/>
+      </g>
+      <g id="Grupo_1185088" data-name="Grupo 1185088" transform="translate(1084.376 546.532)">
+        <path id="Trazado_950090" data-name="Trazado 950090" d="M1105.957,644.077s54.648-32.7,51.507-46.784-16.846,3.816-16.846,3.816,19.353-30.28,9.139-34.61-14.876,11.821-14.876,11.821,8.591-26.57-3.517-29.689-10.622,26.38-10.622,26.38-3.663-23.038-13.158-14.306,4.936,42.181,4.936,42.181-11-22.485-18.547-10.465C1084.962,606.78,1105.957,644.077,1105.957,644.077Z" transform="translate(-1091.725 -548.4)" fill="#336d4c"/>
+        <path id="Trazado_950091" data-name="Trazado 950091" d="M1109.18,653.271s21.744-27.712,22.128-55.082" transform="translate(-1094.948 -557.594)" fill="none" stroke="#316007" stroke-miterlimit="10" stroke-width="1.198"/>
+      </g>
+    </g>
+  </g>
+</svg>
